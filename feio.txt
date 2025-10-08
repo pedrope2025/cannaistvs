@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1
+https://d1bl6tskrpq9ze.cloudfront.net/../../manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_lgchannels-cdp-springserve/bf4848f4-500e-4502-ad15-933788062f56/4.m3u8
